@@ -30,6 +30,10 @@ import io.swagger.annotations.ApiResponses;
 public class BookRestController {
 //git revert check
 
+//conflict raising in local
+
+//taking pull from remote
+
 //branch alerts
 
 //now merge only
