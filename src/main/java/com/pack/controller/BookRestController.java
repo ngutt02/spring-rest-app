@@ -29,7 +29,10 @@ import io.swagger.annotations.ApiResponses;
 @RestController
 public class BookRestController {
 //git revert check
+
 //branch alerts
+//now merge only
+//master is forward than my feature branch	
 	@Autowired
 	BookRepository repository;
 
