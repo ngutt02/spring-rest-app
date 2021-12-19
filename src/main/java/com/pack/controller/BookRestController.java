@@ -29,7 +29,7 @@ import io.swagger.annotations.ApiResponses;
 @RestController
 public class BookRestController {
 //git revert check
-	//git all revert 
+//branch alerts
 	@Autowired
 	BookRepository repository;
 
