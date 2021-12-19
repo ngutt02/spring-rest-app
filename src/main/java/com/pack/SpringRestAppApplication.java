@@ -29,5 +29,5 @@ public class SpringRestAppApplication {
 	private ApiInfo apiEndPointInfo() {
 		return new ApiInfoBuilder().title("Book Api Documentation").description("BookManageSystem").version("1.1").contact("shekher").license("sathya").licenseUrl("http://www.sathya.com").build();
 	}
-
+//master remote changes
 }
