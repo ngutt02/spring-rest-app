@@ -31,8 +31,18 @@ public class BookRestController {
 //git revert check
 
 //branch alerts
+
 //now merge only
 //master is forward than my feature branch	
+
+//1st commit
+//2nd commit
+//3rd commit
+	
+//4th commit
+//5th commit
+//6th commit	
+
 	@Autowired
 	BookRepository repository;
 
